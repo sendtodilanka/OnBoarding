@@ -1,4 +1,4 @@
-package com.codeboxlk.tutorial.onboarding.screen
+package com.codeboxlk.tutorial.onboarding.ui.screen
 
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize

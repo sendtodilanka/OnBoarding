@@ -4,8 +4,8 @@ import androidx.compose.runtime.Composable
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
-import com.codeboxlk.tutorial.onboarding.screen.HomeScreen
-import com.codeboxlk.tutorial.onboarding.screen.WelcomeScreen
+import com.codeboxlk.tutorial.onboarding.ui.screen.HomeScreen
+import com.codeboxlk.tutorial.onboarding.ui.screen.WelcomeScreen
 
 @Composable
 fun SetupNavGraph(
