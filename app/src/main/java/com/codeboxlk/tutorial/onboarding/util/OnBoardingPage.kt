@@ -10,19 +10,19 @@ sealed class OnBoardingPage(
     val description: String
 ) {
     data object First : OnBoardingPage(
-        image = R.drawable.ic_around_the_world_pana,
+        image = R.drawable.ic_launcher_foreground,
         title = "Meeting",
         description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod."
     )
 
     data object Second : OnBoardingPage(
-        image = R.drawable.ic_voice_chat_pana,
+        image = R.drawable.ic_launcher_foreground,
         title = "Coordination",
         description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod."
     )
 
     data object Third : OnBoardingPage(
-        image = R.drawable.ic_learning_languages_bro,
+        image = R.drawable.ic_launcher_foreground,
         title = "Dialogue",
         description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod."
     )
